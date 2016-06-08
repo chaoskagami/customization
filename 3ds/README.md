@@ -15,3 +15,11 @@
 * Bugs/Todo: No bugs. Folder icons need improvement.
  
 ![UPRPRC Theme](https://raw.githubusercontent.com/chaoskagami/customization/master/3ds/UPRPRC/preview.png)
+
+---------
+
+* Name: Altimit Mine OS
+* Desc: I .hacked my 3DS!
+* Bugs/Todo: Honestly, it's perfect.
+ 
+![UPRPRC Theme](https://raw.githubusercontent.com/chaoskagami/customization/master/3ds/altimitmine/preview.png)
